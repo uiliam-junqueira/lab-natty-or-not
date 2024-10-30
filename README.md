@@ -20,23 +20,28 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Apostila de introdução a linguagem python
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Apostila em formato PDF para ensinar os primeiros passos da linguagem python
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei site GPT para criação dos textos, conteúdo e o exemplo dos códigos
+Utilizei o Copilot da Microsoft para gerar as imagens utilizadas na apostila
+Utilizei o software de escritorio Microsoft Word, para criação da apostila.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+perguntei para o site GPT, uma ideia deapostila de 5 páginas sobre python, o que era mais importante abordar, depois
+pedi para criar o conteúdo, perguntei sobre a ideia de capa e contra capa.
+Em sguida salvei o conteúdo grarado pelo Ia, no Microsotf Word, em seguinda fui até o copilot, onde pedi para a IA gerar as
+imagens que eram necessárias para ilustar a apostila, finalizando no Word savando em PDF.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
+https://github.com/user-attachments/files/17579919/apostila_python.pdf
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Apesar de tentar ser bem natural, encontrei diiculdade com as imagens, tenha que mudar os prompts toda hora,
+além das imagens serem muito boas, ainda sim dixava claro que foi gerada por ia.
 
 ### Exemplos e Insigths
 
